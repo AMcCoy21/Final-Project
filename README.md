@@ -6,7 +6,7 @@ Aiden McCoy (agm121@pitt.edu), Aidan Krieger (amk481@pitt.edu) and Trystin DeRem
 
 ### Notebooks
 
-Aiden McCoy's notebook- walk-score.ipynb (located in walk-score folder)
+Aiden McCoy's notebook- walk-score.ipynb 
 Aidan krieger;'s notebook- HouseScore.ipynb
 Trystin DeRemer's notebook -
 Final Notebook- Final code.ipynb
