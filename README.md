@@ -8,7 +8,7 @@ Aiden McCoy (agm121@pitt.edu), Aidan Krieger (amk481@pitt.edu) and Trystin DeRem
 
 Aiden McCoy's notebook- walk-score.ipynb 
 Aidan krieger;'s notebook- HouseScore.ipynb
-Trystin DeRemer's notebook -
+Trystin DeRemer's notebook - EJAD.ipynb
 Final Notebook- Final code.ipynb
 
 ### Datsets used
